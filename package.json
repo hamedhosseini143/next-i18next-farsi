@@ -1,0 +1,21 @@
+{
+  "name": "next-i18next-farsi",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "cross-env NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cross-env": "^6.0.3",
+    "express": "^4.17.1",
+    "next": "beta",
+    "next-i18n-helper": "^1.0.25",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.2.7"
+  }
+}
