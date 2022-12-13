@@ -11,7 +11,7 @@
   "dependencies": {
     "cookie-parser": "^1.4.4",
     "cross-env": "^6.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "next": "beta",
     "next-i18n-helper": "^1.0.25",
     "react": "^16.13.1",
